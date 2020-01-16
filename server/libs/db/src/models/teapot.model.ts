@@ -6,7 +6,7 @@ import { ApiProperty, ApiPropertyOptions } from '@nestjs/swagger';
         timestamps: true
     }
 })
-export class User {
+export class Teapot {
     @ApiProperty({
         
     })
